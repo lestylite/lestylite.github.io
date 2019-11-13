@@ -6,6 +6,7 @@ editor: Alex Gil
 source: "Bartleby.com"
 ---
 
+hahahahah
 - DELAYED till she had ceased to know,
 - Delayed till in its vest of snow
 - {:.indent-2}Her loving bosom lay.
@@ -15,7 +16,7 @@ source: "Bartleby.com"
 
 
 - Could she have guessed that it would be;
-- Could but a crier of the glee	
+- Could but a crier of the glee
 - {:.indent-2}Have climbed the distant hill;
 - Had not the bliss so slow a pace,—
 - Who knows but this surrendered face
